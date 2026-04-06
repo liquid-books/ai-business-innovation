@@ -21,6 +21,22 @@ project:
   # Table of contents — chapters added here as they are written
   toc:
     - file: index.md
+    - title: "Chapter 1: Change Your Relationship with AI"
+      file: chapters/ch01-change-your-relationship.md
+    - title: "Chapter 2: Tools — The Claude Ecosystem and Your Business Data"
+      file: chapters/ch02-tools-claude-ecosystem.md
+    - title: "Chapter 3: Claude Skills — Teaching AI How to Do Your Work"
+      file: chapters/ch03-claude-skills.md
+    - title: "Chapter 4: Synthetic Employees — Plugins as Virtual Workers"
+      file: chapters/ch04-synthetic-employees.md
+    - title: "Chapter 5: Building Applications with Claude Code and Antigravity"
+      file: chapters/ch05-building-applications.md
+    - title: "Chapter 6: Voice AI — Building Conversational Agents with Vapi.ai"
+      file: chapters/ch06-voice-ai.md
+    - title: "Chapter 7: Advanced Tools and Universal Power Skills"
+      file: chapters/ch07-advanced-tools.md
+    - title: "Chapter 8: Agentic Teams — Building an Army of Synthetic Employees"
+      file: chapters/ch08-agentic-teams.md
 
 site:
   title: "AI for Business Innovation: A Comprehensive Textbook for ISM 6427C"
